@@ -1,0 +1,67 @@
+body{
+    font-family: 'Courier New', monospace;
+    margin: auto;
+}
+
+#logofae{
+    width: 200px;
+    margin-bottom: 10px;
+    margin-right: 40%;
+    margin-left: 40%;
+}
+
+#texto{
+    width: 60%;
+    background-color: lightblue;
+    text-align: center;
+    font-weight: bold;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+#div1{
+    width: 60%;
+    padding: 20px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+}
+
+#div2{
+    width: 50%;
+    border: 2px solid blue;
+    background-color: lightblue;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+#div3{
+    border: 2px solid blue;
+    background-color: lightblue;
+    color: white;
+    width: 50%;
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+#informacoes{
+    font-size: large;
+}
+
+#div4{
+    border: 1px solid black;
+    width: 200px;
+    height: 50px;
+    background-color: lightblue;
+    border-radius: 10px;
+    color: black;
+    text-align: center;
+    font-weight: bold;
+}
+
+#checkbox1{
+    font-weight: bold;
+}

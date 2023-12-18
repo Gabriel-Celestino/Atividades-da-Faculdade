@@ -1,0 +1,302 @@
+body {
+    width: 940px;
+    margin: auto;
+    
+}
+
+
+
+.cabecalho {
+    
+    color: black;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: rgb(207, 204, 204);
+    
+    
+    
+}
+
+.cabecalho_logo {
+    width: 50px;
+    
+}
+
+
+
+.cabecalho_menu {
+    
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0 40px 0 40px;
+    
+    
+    
+    
+}
+
+.cabecalho_div {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    flex: auto;
+
+}
+
+.cabecalho_item-menu {
+    display: inline; 
+    justify-content: space-between;
+    margin-left: 50px;
+    
+
+    
+    
+}
+
+.cabecalho_item-menu a {
+    display: inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    color: black;
+    
+}
+
+.cabecalho_item-menu a:hover {
+
+    color: white;
+}
+
+.botao_cabecalho {
+    text-align: center;
+    text-decoration: none;
+    background-color: white;
+    width: 80px;
+    height: 50px;
+    border-radius: 15px;
+    color: black;
+    font-weight: bold;
+
+ 
+}
+
+.cabecalho_imagem1 {
+    height: 300px;
+    width: 350px;
+    float: left;
+    padding: 15px;
+    border-radius: 6px;
+    border: 2px solid black;
+    margin: 50px 50px 50px 50px;
+    
+}
+
+.main_div {
+    padding: 5px;
+    width: 100%;
+    float: left;
+      
+}
+
+.chamativo {
+    font-size:xx-large;
+    margin-top: 60px;
+    margin-right: 25px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+    
+}
+
+.buttom_main {
+    text-align: center;
+    text-decoration: none;
+    background-color: white;
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    color: black;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: medium;
+    
+    
+}
+
+.texto_main {
+    margin-right: 25px;
+}
+
+
+.meio_div {
+   float: left;
+   justify-content: space-between;
+   background-color: rgb(207, 204, 204);
+   width: 100%;
+   float: left;
+   
+   
+    
+}
+.div_imagem-meio {
+    text-align: center;
+    align-items: center;
+    justify-content: space-between ;
+    padding: 25px;
+    margin-top: 50px;
+    flex: auto;
+
+    
+
+}
+
+.imagem-teste {
+    width: 116px;
+}
+
+
+
+
+.buttom-cliente {
+    text-align: center;
+    text-decoration: none;
+    background-color: black;
+    width: 125px;
+    height: 50px;
+    border-radius: 15px;
+    color: white;
+    margin-top: 15px;
+    font-weight: bold;
+    
+    
+    
+}
+
+.estilo_cliente {
+    text-align: center;
+    padding: 50px;
+    width: 100%;
+    float: left;
+    
+    
+
+}
+
+.texto-estilo {
+    margin: 30px;
+}
+
+
+.rodape {
+    text-align: center;
+    font-size: 12px;
+    padding: 24px 5%;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
+.inicio_rodape {
+    
+    flex: left;
+}
+
+.rodape_infos-empresa {
+    line-height: 1.5;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+
+.meio_rodape {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.rodape_infos-empresa2 {
+    text-align: center;
+    line-height: 1.5;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+.fim_rodape {
+  float: right;
+}
+.fim_rodape img {
+    width: 45px;
+    height: 45px;
+    border-radius: 50% ;
+    border: 100px black;
+    
+}
+
+.opinioes {
+    width: 100%;
+     
+    
+    
+}
+
+.usuario {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    display: flex;
+    
+}
+
+.star {
+    width: 20px;
+}
+
+.pessoa {
+    display: inline-block;
+    justify-content: center;
+    padding: 25px;
+    margin-top: 50px;
+}
+
+.nome-pessoa {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.parte-quatro {
+    background-color: grey;
+    width: 100px;
+    display: inline-block;
+}
+
+.parte-quatro img {
+
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+
+.imagemUm {
+    margin-top: 40px;
+    margin-right: 25px;
+}
+
+.imagemDois {
+    margin-top: 20px;
+    margin-left: 25px;
+}
+
+.outro-clientes {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+
+
